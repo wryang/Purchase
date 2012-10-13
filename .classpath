@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/external-libs/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/external-libs/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/GroupPurchaseManagementSystem.jar"/>
+	<classpathentry kind="lib" path="lib/GroupPurchaseWeb.jar"/>
+	<classpathentry kind="lib" path="lib/ShortMessageNotificationSystem.jar"/>
+	<classpathentry kind="lib" path="lib/acitve mq/activemq-all-5.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/acitve mq/jms.jar"/>
+	<classpathentry kind="lib" path="lib/acitve mq/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/acitve mq/slf4j-nop-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
